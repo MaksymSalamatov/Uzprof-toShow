@@ -2211,7 +2211,7 @@ body {
   }
 
   .footer .title:after {
-    content: url("../../img/footer/arrow.png");
+    content: url("../img/footer/arrow.png");
     position: absolute;
     top: 50%;
     -webkit-transform: translateY(-50%);

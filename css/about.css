@@ -1613,7 +1613,7 @@ strong {
 }
 
 .aboutC__picture {
-  background: center/cover no-repeat url("../../img/aboutPage/main.png");
+  background: center/cover no-repeat url("../img/aboutPage/main.png");
   border-radius: 10px 90px 10px 10px;
   height: 428px;
   margin-bottom: 20px;
@@ -2427,7 +2427,7 @@ strong {
   }
 
   .footer .title:after {
-    content: url("../../img/footer/arrow.png");
+    content: url("../img/footer/arrow.png");
     position: absolute;
     top: 50%;
     -webkit-transform: translateY(-50%);
