@@ -1603,7 +1603,7 @@ strong {
 }
 
 .aboutC__title_line:after {
-  content: url("../../img/aboutPage/Line.png");
+  content: url("../img/aboutPage/Line.png");
   position: absolute;
   bottom: -20px;
   left: 50%;

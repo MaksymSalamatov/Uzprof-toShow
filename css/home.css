@@ -2857,7 +2857,7 @@ strong {
 }
 
 .forex__tab-title:after {
-  content: url("../../img/meets/arrow.png");
+  content: url("../img/meets/arrow.png");
   position: absolute;
   top: 50%;
   -webkit-transform: translateY(-50%);
