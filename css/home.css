@@ -3021,7 +3021,7 @@ strong {
 
 .analytics .slider .info__top_picture {
   height: 190px;
-  background: url("../../img/analytics/main.png") no-repeat;
+  background: url("../img/analytics/main.png") no-repeat;
   background-size: cover;
 }
 
